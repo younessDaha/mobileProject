@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#8692F7</color>
+    <color name="primary">#6200EE</color> <!-- Bleu profond, par exemple pour les en-têtes et accents -->
+    <color name="primary_light">#BB86FC</color> <!-- Bleu clair, pour les arrière-plans ou les surbrillances -->
+    <color name="primary_dark">#3700B3</color> <!-- Bleu très foncé, pour les barres de statut ou pour le texte sur fond clair -->
+    <color name="light_gray">#F0F0F0</color>
+    <color name="secondary">#03DAC5</color> <!-- Teal, second accent color -->
+    <color name="secondary_light">#18FFFF</color>
+    <color name="secondary_dark">#00A896</color>
+    <color name="colorPrimary">#008CBA</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <!-- Couleur primaire sombre pour l'application -->
+    <color name="colorPrimaryDark">#128C7E</color> <!-- Remplacez cette valeur par la couleur primaire sombre de votre choix -->
+
+    <!-- Couleur verte de WhatsApp -->
+    <color name="whatsappGreen">#25D366</color> <!-- Couleur verte distinctive de WhatsApp -->
+
+
+</resources>

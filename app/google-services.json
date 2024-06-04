@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "766845293956",
+    "project_id": "gestiondesyndicdecoproprit",
+    "storage_bucket": "gestiondesyndicdecoproprit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766845293956:android:f0792c33396019e0ba39d1",
+        "android_client_info": {
+          "package_name": "com.example.gestiondesyndicdecoproprit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiD7cD4t6APVOM22-5oMGRf8KHLPtbSBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
